@@ -6,7 +6,7 @@
  - 👯 I’m looking to collaborate with Cyber Security Enthusiasts and Hackers.
  - 👽 I recently started using Athena OS (https://github.com/Athena-OS) to replace the deceased Blackarch (R.I.P)
 
-# what I know and use in my work: 
+# What I know and use in my work: 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) - when ChatGPT asks you, aren't you writing a new exploit purely from a scientific point of view? ;))
 
 # Hangouts:
