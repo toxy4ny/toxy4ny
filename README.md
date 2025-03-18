@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate with Cyber Security Enthusiasts.
 - 👽 I recently started using Athena OS (https://github.com/Athena-OS) to replace the deceased Blackarch (R.I.P)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+I use ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
