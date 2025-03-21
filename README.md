@@ -3,14 +3,14 @@
 # Hi there 👋
 # About me:
 
- - 🔭 I’m currently working in Red Team of Parasite.tech.
+ - 🔭 I’m currently working in Red Team of Parasite.tech. 
  - 🌱 I’m currently learning Red Team's Ops 2025.
  - 👯 I’m looking to collaborate with Cyber Security Enthusiasts and Hackers.
  - 👽 I recently started using Athena OS (https://github.com/Athena-OS) to replace the deceased Blackarch (R.I.P)
+ - 📃 I help write cool stories from the life of our clients' pentest and bugs for Zl0y (https://zzl0y.github.io/bugs-and-arts/)
 
-# What I know and use in my work: 
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
-
+# What I know and use in my work:
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) - when ChatGPT asks you, aren't you writing a new exploit purely from a scientific point of view? ;))
 
