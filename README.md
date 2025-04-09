@@ -69,7 +69,6 @@
 ![](https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 
 # I can buy myself a beer :))
-![](https://github.com/toxy4ny/toxy4ny/blob/main/bitcoin.svg)
-BITCOIN 19fQYA7yaBfP59k4Ueb6x99JJXkHgSxBmg
-# Anonymously in GRIN++
-grin14d69nj3wuxlrv9gpk2hav0g7fv99shzwpjdqq7vtjy6gsz9w3aesefs9u0
+BITCOIN bc1qhamvfqpunpjyxjv0cyxj4svl7zlg9u0y4ckcn9
+# Anonymously in MONERO
+4AmnEcNNmggZMieke6EnvJGhWhdTBDZDuG2yZfqrgMt1GJBvEBZJBVncHu2fkt4HVK7mtxtDBcVZr8fP6E7yz5pyH6xRk4Z
