@@ -71,5 +71,5 @@
 # I can buy myself a beer :))
 ![](https://github.com/toxy4ny/toxy4ny/blob/main/bitcoin.svg)
 BITCOIN 19fQYA7yaBfP59k4Ueb6x99JJXkHgSxBmg
-# Anonymously in GREN++
+# Anonymously in GRIN++
 grin14d69nj3wuxlrv9gpk2hav0g7fv99shzwpjdqq7vtjy6gsz9w3aesefs9u0
